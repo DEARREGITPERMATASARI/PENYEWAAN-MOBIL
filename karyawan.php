@@ -60,6 +60,7 @@
          <table class="table" id="table_karyawan">
            <thead>
              <tr>
+               <td>No</td>
                <td>ID Karyawan</td>
                <td>Nama</td>
                <td>Alamat</td>
