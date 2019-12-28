@@ -11,6 +11,7 @@ $koneksi = mysqli_connect("localhost", "root","", "penyewaan");
     $username=$_POST["username"];
     $password=$_POST["password"];
     $level=$_POST["level"];
+    // Ini namanya Comment
 
     if ($_POST["action"]=="insert") {
    $sql ="insert into karyawan values
